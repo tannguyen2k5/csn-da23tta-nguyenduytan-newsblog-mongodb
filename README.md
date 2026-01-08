@@ -30,8 +30,7 @@
     * Lọc chính xác các bài viết dựa trên tên tác giả từ đối tượng nhúng.
     * Thực hiện tìm kiếm bài viết theo từ khóa tiêu đề (ví dụ: "Tây Ban Nha") bằng biểu thức chính quy (Regex).
 4. **Quản trị và tối ưu hóa:**
-    * Phát hiện và có phương án xử lý lỗi cú pháp (`SyntaxError`) trong quá trình vận hành hệ thống.
-    * Nhận diện hiện tượng trùng lặp dữ liệu (Data Redundancy) và áp dụng lệnh xóa bản ghi thừa bằng `deleteOne`.
+    * Nhận diện hiện tượng trùng lặp dữ liệu và áp dụng lệnh xóa bản ghi thừa bằng `deleteOne()`.
 
 ---
 
