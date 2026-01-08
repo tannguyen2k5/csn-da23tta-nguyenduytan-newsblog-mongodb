@@ -8,7 +8,7 @@
 
 ## 2. Thông tin thực hiện Đồ án
 * **Tên đề tài:** Thiết kế và cài đặt CSDL NoSQL cho hệ thống quản lý nội dung đa phương tiện.
-* **Cơ sở dữ liệu:** MongoDB (v6.0+) - Mô hình dữ liệu hướng tài liệu (Document-oriented).
+* **Cơ sở dữ liệu:** MongoDB (v6.0+).
 * **Môi trường thực thi:**
     * **MongoDB Compass:** Giao diện trực quan để quan sát cấu trúc dữ liệu nhúng và quản lý các Collection.
 
@@ -35,7 +35,7 @@
 
 ---
 
-## 5. Hướng dẫn thực hiện (Implementation Guide)
+## 5. Cài đặt
 
 ### Bước 1: Khởi tạo Cơ sở dữ liệu
 Mở MongoDB Shell (Mongosh) và thực hiện lệnh sau để tạo và bắt đầu làm việc với CSDL của đồ án:
@@ -52,3 +52,7 @@ Sử dụng các lệnh sau để kiểm tra việc cài đặt đã thành côn
 + Tìm kiếm theo từ khóa (Không phân biệt hoa thường)
 
 + Lọc thông tin theo Tên Tác giả
+
+## 👤 Thông tin sinh viên
+- **Người thực hiện:** Nguyễn Duy Tân
+- **Email:** [tannguyentv2005k@gmail.com](mailto:annguyentv2005k@gmail.com)
