@@ -1,5 +1,5 @@
 # csn-da23tta-nguyenduytan-newsblog-mongodb
-# ĐỒ ÁN: THIẾT KẾ VÀ CÀI ĐẶT CƠ SỞ DỮ LIỆU NOSQL CHO HỆ THỐNG BLOG TIN TỨC
+# Thiết kế và cài đặt cơ sở dữ liệu NoSQL cho hệ thống quản lý nội dung đa phương tiện cho trang tin tức/Blog 
 
 ## 1. Mô tả tóm tắt 
 Đồ án tập trung vào việc thiết kế và cài đặt cơ sở dữ liệu NoSQL (MongoDB) cho hệ thống quản lý nội dung đa phương tiện (Blog/Tin tức). Giải pháp này thay thế các ràng buộc bảng biểu cứng nhắc của SQL truyền thống bằng cấu trúc tài liệu (Document) linh hoạt, cho phép lưu trữ bài viết với nhiều định dạng media và danh mục khác nhau trong cùng một bản ghi, giúp tối ưu hóa tốc độ truy xuất dữ liệu cho người dùng cuối.
