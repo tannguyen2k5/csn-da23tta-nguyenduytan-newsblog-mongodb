@@ -1,0 +1,53 @@
+[{
+  "_id": {
+    "$oid": "656e20000000000000000001"
+  },
+  "Ten_danh_muc_bai_viet": "Công nghệ",
+  "Mo_ta": "Tin tức IT, AI, Mobile"
+},
+{
+  "_id": {
+    "$oid": "656e20000000000000000002"
+  },
+  "Ten_danh_muc_bai_viet": "Thể thao",
+  "Mo_ta": "Bóng đá, Tennis, Euro"
+},
+{
+  "_id": {
+    "$oid": "656e20000000000000000003"
+  },
+  "Ten_danh_muc_bai_viet": "Xe",
+  "Mo_ta": "Ô tô, Xe máy, Xe điện"
+},
+{
+  "_id": {
+    "$oid": "656e20000000000000000004"
+  },
+  "Ten_danh_muc_bai_viet": "Kinh doanh",
+  "Mo_ta": "Tài chính, Chứng khoán"
+},
+{
+  "_id": {
+    "$oid": "656e20000000000000000005"
+  },
+  "Ten_danh_muc_bai_viet": "Đời sống",
+  "Mo_ta": "Du lịch, Sức khỏe"
+},
+{
+  "_id": {
+    "$oid": "69566bd4106bf84d83e2d785"
+  },
+  "Ten": "Pháp Luật"
+},
+{
+  "_id": {
+    "$oid": "69566bd4106bf84d83e2d786"
+  },
+  "Ten": "Xe Cộ"
+},
+{
+  "_id": {
+    "$oid": "69566bd4106bf84d83e2d787"
+  },
+  "Ten": "Đời Sống"
+}]
