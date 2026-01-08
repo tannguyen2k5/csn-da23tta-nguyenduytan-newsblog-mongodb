@@ -25,7 +25,7 @@
 
 ---
 
-## ✅ 4. Các tính năng chính đã hoàn thành
+## 4. Các tính năng chính đã hoàn thành
 1. **Khởi tạo cấu trúc CSDL:** Thiết lập thành công Database `TRANG_TIN_TUC_BLOG` và chuyển đổi ngữ cảnh làm việc trong môi trường Shell.
 2. **Quản lý dữ liệu đa phương tiện:** Lưu trữ thành công mảng `Media_dinh_kem` chứa đường dẫn tệp (`images/iphone16.jpg`) và loại tệp trực tiếp trong bài viết.
 3. **Truy vấn nâng cao:**
@@ -37,18 +37,18 @@
 
 ---
 
-## 🚀 5. Hướng dẫn thực hiện (Implementation Guide)
+## 5. Hướng dẫn thực hiện (Implementation Guide)
 
 ### Bước 1: Khởi tạo Cơ sở dữ liệu
 Mở MongoDB Shell (Mongosh) và thực hiện lệnh sau để tạo và bắt đầu làm việc với CSDL của đồ án:
 ```javascript
-use TRANG_TIN_TUC_BLOG //
+use TRANG_TIN_TUC_BLOG
 
 ```
 ### Bước 2: Nhập dữ liệu mẫu
 Thực hiện chèn bài viết có cấu trúc dữ liệu nhúng (Tác giả, Danh mục, Media) vào collection BAIVIET:
 
-Bước 3: Kiểm tra và Truy vấn dữ liệu
+### Bước 3: Kiểm tra và Truy vấn dữ liệu
 Sử dụng các lệnh sau để kiểm tra việc cài đặt đã thành công:
 
 + Tìm kiếm theo từ khóa (Không phân biệt hoa thường)
