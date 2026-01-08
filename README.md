@@ -53,4 +53,4 @@ Sử dụng các lệnh sau để kiểm tra việc cài đặt đã thành côn
 
 + Tìm kiếm theo từ khóa (Không phân biệt hoa thường)
 
-+ Lọc thông tin theo Tên Tác giả: blabla
++ Lọc thông tin theo Tên Tác giả
