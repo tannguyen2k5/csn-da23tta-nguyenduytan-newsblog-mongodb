@@ -10,17 +10,15 @@
 * **Tên đề tài:** Thiết kế và cài đặt CSDL NoSQL cho hệ thống quản lý nội dung đa phương tiện.
 * **Cơ sở dữ liệu:** MongoDB (v6.0+) - Mô hình dữ liệu hướng tài liệu (Document-oriented).
 * **Môi trường thực thi:**
-    * **MongoDB Shell (Mongosh):** Sử dụng để thực thi các lệnh truy vấn và quản lý CSDL.
     * **MongoDB Compass:** Giao diện trực quan để quan sát cấu trúc dữ liệu nhúng và quản lý các Collection.
 
 ---
 
 ## 3. Công nghệ sử dụng
-* **Database Engine:** MongoDB - Hỗ trợ lưu trữ dữ liệu nhúng (Embedded) và mảng (Arrays).
+* **Database Engine:** MongoDB - Hỗ trợ lưu trữ dữ liệu nhúng (Embedded) 
 * **Query Language:** MongoDB Query Language (MQL) dựa trên định dạng JSON/BSON.
 * **Kỹ thuật tối ưu:**
     * **Embedded Data Model:** Nhúng trực tiếp thông tin `Tac_gia` và `Danh_muc` vào tài liệu `BAIVIET` để giảm thiểu các phép Join tốn kém.
-    * **Regex Searching:** Tìm kiếm linh hoạt theo cụm từ trong tiêu đề mà không phân biệt chữ hoa hay chữ thường.
     * **Projection:** Kỹ thuật lọc và chỉ trích xuất các trường dữ liệu cần thiết (như Tieu_de, Ho_ten) để tiết kiệm tài nguyên hệ thống và băng thông.
 
 ---
